@@ -1,0 +1,38 @@
+# Python / Virtual Environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+
+# Environment & Secrets
+.env
+
+# Media & Large Video Files
+*.mkv
+*.mp4
+*.avi
+*.mov
+*.webm
+*.wmv
+*.flv
+*.m4v
+*.mp3
+*.wav
+
+# Generated / Runtime Directories
+uploads/
+workdir/
+reels/
+scratch/
+Brain/
+logs/
+*.log
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
